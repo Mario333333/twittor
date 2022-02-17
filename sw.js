@@ -6,7 +6,7 @@
  * No tienen acciones en s2 
  * pero necesarios en PWA 
  */
-importScripts("/js/sw-utils.js")
+importScripts("js/sw-utils.js")
 
 const STATIC_CACHE = "static-v1";
 const DYNAMIC_CACHE = "dynamic-v1";
